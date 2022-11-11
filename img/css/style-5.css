@@ -1,0 +1,18 @@
+.sec5 {
+    background-image: linear-gradient(to right, #fddb92 0%, #d1fdff 100%);
+    min-height: 100vh;
+    background-size: 100%;
+}
+
+.sec5 .slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec5 .slide video {
+    height: 80%;
+    border-radius: 25px;
+    box-shadow: 0 1px 40px -10px #000;
+}
+
